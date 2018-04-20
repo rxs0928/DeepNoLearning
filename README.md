@@ -11,7 +11,8 @@ Project of UCAS Deep Learning Course
 [Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
 [莫烦blog](https://morvanzhou.github.io/)
-#相关论文
+
+# 相关论文
 [何恺明(ResNet作者)主页](http://kaiminghe.com/)
 
 [Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385)
