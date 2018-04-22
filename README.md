@@ -8,9 +8,11 @@ Project of UCAS Deep Learning Course
 
 [Linux教程](https://www.linuxprobe.com/book)
 
-[Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+[Python教程——廖雪峰](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
-[莫烦blog](https://morvanzhou.github.io/)
+[Python教程——莫烦](https://morvanzhou.github.io/)
+
+[TensorFlow 教程](https://web.stanford.edu/class/cs20si/syllabus.html)
 
 # 相关论文
 [何恺明(ResNet作者)主页](http://kaiminghe.com/)
