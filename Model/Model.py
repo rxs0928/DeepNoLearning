@@ -34,3 +34,8 @@ class Model:
 
     # Define some optimization method you want to use in the training
     def __opt_select(self): pass
+
+    # Define the loss_function
+    def __loss(self):pass
+
+    #
